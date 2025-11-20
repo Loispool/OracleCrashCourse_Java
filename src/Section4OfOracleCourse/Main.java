@@ -9,9 +9,13 @@ Section4OfOracleCourse.Calculator2 calc = new Section4OfOracleCourse.Calculator2
         // to see how IntelliJ IDEA suggests fixing it.
         calc.findTotal();
 */
-        Calculator3 calc = new Calculator3();
+      /*  Calculator3 calc = new Calculator3();
         calc.findTotal(15.50, "Josh");
+*/
 
+        TestForReturnMethods test = new TestForReturnMethods();
+
+        System.out.println(test.Test(13, 25.5));
 
         }
     }
