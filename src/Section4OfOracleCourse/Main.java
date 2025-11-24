@@ -12,10 +12,14 @@ Section4OfOracleCourse.Calculator2 calc = new Section4OfOracleCourse.Calculator2
       /*  Calculator3 calc = new Calculator3();
         calc.findTotal(15.50, "Josh");
 */
-
+/*
         TestForReturnMethods test = new TestForReturnMethods();
 
         System.out.println(test.Test(13, 25.5));
+*/
 
+
+
+        System.out.println(5<6);
         }
     }
